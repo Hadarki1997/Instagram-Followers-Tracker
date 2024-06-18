@@ -20,6 +20,6 @@ Step 1: Download Current Followers
 Open instagram_followers.py.
 Enter your Instagram username and password:
 
-python
+ ```bash
 username = 'your_username'
 password = 'your_password'
