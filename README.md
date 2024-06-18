@@ -23,3 +23,9 @@ Enter your Instagram username and password:
  ```bash
 username = 'your_username'
 password = 'your_password'
+
+3. **Run the script**: 
+ ```bash
+python instagram_followers.py
+
+
